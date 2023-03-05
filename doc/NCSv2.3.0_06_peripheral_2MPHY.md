@@ -1,4 +1,4 @@
-<sup>SDK version: NCS v2.2.0  -  Link to Hands-on solution: </sup>
+<sup>SDK version: NCS v2.2.0  -  Link to Hands-on solution: https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.3.0/06_Peripheral_2MPHY</sup>
 
 # Bluetooth Low Energy: Using 2M PHY
 
