@@ -13,3 +13,7 @@ Here is a list of available hands-on exercises:
 ## Using Bluetooth Services (Bluetooth defined services and custom services)
 
 - [BLE Peripheral with Device Information Service](doc/NCSv2.3.0_02_peripheral_Service_DeviceInformation.md) - allow to establish a connection. Example uses GATT Service, which is available within NCS (Device Information Service).
+
+## Bluetooth Stack Feature Settings
+
+- [Using 2M-PHY](doc/NCSv2.3.0_06_peripheral_2MPHY.md) - requesting 2M-PHY usage. 
