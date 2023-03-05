@@ -10,3 +10,6 @@ Here is a list of available hands-on exercises:
 
 - [iBeacon](doc/NCSv2.3.0_01_Beacon.md) - initialize bluetooth stack and realize a broadcaster (creating project from scratch)
 
+## Using Bluetooth Services (Bluetooth defined services and custom services)
+
+- [BLE Peripheral with Device Information Service](doc/NCSv2.3.0_02_peripheral_Service_DeviceInformation.md) - allow to establish a connection. Example uses GATT Service, which is available within NCS (Device Information Service).
