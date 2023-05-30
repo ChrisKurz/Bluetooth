@@ -21,7 +21,7 @@ The simplest way to use Bluetooth Low Energy is broadcasting and realising a bea
 
 2) Create the needed files for a minimal project setup:
 
-   ![image](images/02_ProjectFolder.jpg)
+   ![image](images/01_ProjectFolder.jpg)
 
 3) Here is the content of these files:
 	
@@ -161,19 +161,19 @@ Notes:
 
 	<sup>_src/main.c_</sup>
 
-       static void connected(struct bt_conn *conn, uint8_t err)
-       {
-           if (err) {
-                printk("Connection failed (err 0x%02x)\n", err);
-           } else {
-                printk("Connected\n");
-           }
-       }
+        static void connected(struct bt_conn *conn, uint8_t err)
+        {
+            if (err) {
+                 printk("Connection failed (err 0x%02x)\n", err);
+            } else {
+                 printk("Connected\n");
+            }
+        }
 
-       static void disconnected(struct bt_conn *conn, uint8_t reason)
-       {
-           printk("Disconnected (reason 0x%02x)\n", reason);
-       }
+        static void disconnected(struct bt_conn *conn, uint8_t reason)
+        {
+            printk("Disconnected (reason 0x%02x)\n", reason);
+        }
 
 ### Start Advertising
 
