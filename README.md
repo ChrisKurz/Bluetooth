@@ -24,4 +24,4 @@ Here is a list of available hands-on exercises:
 
 ## Bluetooth Security
 
-- [Enable Securtiy on a Bluetooth Peripheral](https://github.com/ChrisKurz/Bluetooth/blob/main/doc/NCSv2.3.0_10_peripheral_EnableSecurtiy_IN-WORK.md)
+- [Enable Securtiy on a Bluetooth Peripheral](doc/NCSv2.3.0_10_peripheral_EnableSecurity.md)
