@@ -161,19 +161,19 @@ Notes:
 
 	<sup>_src/main.c_</sup>
 
-       static void connected(struct bt_conn *conn, uint8_t err)
-       {
-           if (err) {
-                printk("Connection failed (err 0x%02x)\n", err);
-           } else {
-                printk("Connected\n");
-           }
-       }
+        static void connected(struct bt_conn *conn, uint8_t err)
+        {
+            if (err) {
+                 printk("Connection failed (err 0x%02x)\n", err);
+            } else {
+                 printk("Connected\n");
+            }
+        }
 
-       static void disconnected(struct bt_conn *conn, uint8_t reason)
-       {
-           printk("Disconnected (reason 0x%02x)\n", reason);
-       }
+        static void disconnected(struct bt_conn *conn, uint8_t reason)
+        {
+            printk("Disconnected (reason 0x%02x)\n", reason);
+        }
 
 ### Start Advertising
 
