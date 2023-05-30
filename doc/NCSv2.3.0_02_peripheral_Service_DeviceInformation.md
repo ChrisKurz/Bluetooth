@@ -21,7 +21,7 @@ The simplest way to use Bluetooth Low Energy is broadcasting and realising a bea
 
 2) Create the needed files for a minimal project setup:
 
-   ![image](images/02_ProjectFolder.jpg)
+   ![image](images/01_ProjectFolder.jpg)
 
 3) Here is the content of these files:
 	
