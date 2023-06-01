@@ -141,7 +141,7 @@ And add it to CusomtService.c:
 
 10) Include CustomService.h in your main.c file. Add following line in main.c:
 
-	<sup>_services/main.c_</sup>
+	<sup>_src/main.c_</sup>
 
         #include "../services/CustomService.h"
 
