@@ -145,9 +145,9 @@ And add it to CusomtService.c:
 
         #include "../services/CustomService.h"
 
-10) We initialize our service by adding the following after enabling the Bluetooth stack in main.c:
+11) We initialize our service by adding the following after enabling the Bluetooth stack in main.c:
 
-	<sup>_services/main.c_ => main() function</sup>
+	<sup>_src/main.c_ => main() function</sup>
 
             //Initalize services
             err = CustomService_init();
@@ -156,7 +156,7 @@ And add it to CusomtService.c:
                 return;
             }
 
-11) You can now also chance the Bluetooth Device name by changing the CONFIG_BT_DEVICE_NAME setting in the prj.conf file. 
+12) You can now also chance the Bluetooth Device name by changing the CONFIG_BT_DEVICE_NAME setting in the prj.conf file. 
 
 	<sup>_prj.conf_</sup>
 
@@ -164,7 +164,7 @@ And add it to CusomtService.c:
 
 ### Testing
 
-12) Finally, build the project ("Pristine Build"!!!), start debugger, and test. 
+13) Finally, build the project ("Pristine Build"!!!), start debugger, and test. 
  
     Use Terminal program (e.g. nRF Terminal) to check the debug output. First connect Terminal, then perfrom a reset by pressing the reset button on the development kit. Following output should be seen on the terminal:
     
