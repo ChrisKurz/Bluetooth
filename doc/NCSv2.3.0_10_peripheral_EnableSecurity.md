@@ -1,4 +1,4 @@
-<sup>SDK version: NCS v2.3.0  -  Link to Hands-on solution: </sup>
+<sup>SDK version: NCS v2.3.0  -  Link to Hands-on solution: https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.3.0/10_Peripheral_Security </sup>
 
 # Bluetooth Low Energy: Enable Security on a Bluetooth Peripheral Device
 
