@@ -1,4 +1,4 @@
-<sup>SDK version: NCS v2.4.0  -  Link to Hands-on solution: https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.4.0/02_Peripheral_BAS</sup>
+<sup>SDK version: NCS v2.4.0  -  Link to Hands-on solution: https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.4.0/02b_Peripheral_BAS</sup>
 
 # Bluetooth Low Energy: Peripheral with Battery Service
 
