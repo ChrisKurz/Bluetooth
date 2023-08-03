@@ -61,7 +61,7 @@ Notes:
 - The Bluetooth stack is added by the above KCONIF settings. Beside that a Bluetooth devcie name and peripheral role is defined.
 - The prj.conf file contains lines that are commented out (using "#" character). These have been added to allow a better understanding of the setting. Note that CONFIG_BT_BROADCASTER is by default 'y', while Central and Ovserver roles are disabled by default. 
 
-### Add Software module for _Device Instormation Service_ (DIS) and set its paramters
+### Add Software module for _Device Information Service_ (DIS) and set its paramters
 
 4) This is done via the KCONFIG settings. So we have to add following lines in the __prj.conf__ file:
 
