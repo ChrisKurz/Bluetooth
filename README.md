@@ -12,11 +12,17 @@ Here is a list of available hands-on exercises:
 
 ## Using Bluetooth Services (Bluetooth defined services and custom services)
 
+### BLuetooth Services offered in Zephyr Repository (NCS folder: zephyr/subsys/bluetooth/services)
+
 - [BLE Peripheral with Device Information Service](doc/NCSv2.3.0_02_peripheral_Service_DeviceInformation.md) - allow to establish a connection. Example uses GATT Service, which is available within NCS (Device Information Service).
 
 - [BLE Peripheral with Immediate Alert Service](doc/NCSv2.3.0_02a_peripheral_Service_ImmediateAlert.md) - Example uses another GATT Service, which is available within NCS (Immediate Alert Service).
 
 - [BLE Peripheral with Battery Service](doc/NCSv2.4.0_02b_peripheral_Service_Battery.md) - Here a Battery Service (BAS) is added to a project. Battery level measurement is emulated here.
+
+### Bluetooth Services offered in NRF Repository (NCS folder: nrf/subsys/bluetooth/services)
+
+### Custom Bluetooth Services
 
 - [Adding a Custom Service (_Write without Response_)](doc/NCSv2.3.0_03_peripheral_CustomService.md) - here we add a custom service and characteristic to the previous project. This example uses the Bluetooth LE Data Transfer Operation "Write Without Response".
 
