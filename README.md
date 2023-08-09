@@ -12,7 +12,7 @@ Here is a list of available hands-on exercises:
 
 ## Bluetooth Services
 
-### BLuetooth Services offered in Zephyr Repository (NCS folder: zephyr/subsys/bluetooth/services)
+### Bluetooth Services offered in Zephyr Repository (NCS folder: zephyr/subsys/bluetooth/services)
 
 - [BLE Peripheral with Device Information Service](doc/NCSv2.3.0_02_peripheral_Service_DeviceInformation.md) - allow to establish a connection. Example uses GATT Service, which is available within NCS (Device Information Service).
 
