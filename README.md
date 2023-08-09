@@ -10,7 +10,7 @@ Here is a list of available hands-on exercises:
 
 - [iBeacon](doc/NCSv2.3.0_01_Beacon.md) - initialize bluetooth stack and realize a broadcaster (creating project from scratch)
 
-## Using Bluetooth Services (Bluetooth defined services and custom services)
+## Bluetooth Services
 
 ### BLuetooth Services offered in Zephyr Repository (NCS folder: zephyr/subsys/bluetooth/services)
 
