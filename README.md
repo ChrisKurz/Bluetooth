@@ -18,7 +18,7 @@ Here is a list of available hands-on exercises:
 
 - [BLE Peripheral with Immediate Alert Service](doc/NCSv2.3.0_02a_peripheral_Service_ImmediateAlert.md) - Example uses another GATT Service, which is available within NCS (Immediate Alert Service).
 
-- [BLE Peripheral with Battery Service](doc/NCSv2.4.0_02b_peripheral_Service_Battery.md) - Here a Battery Service (BAS) is added to a project. Battery level measurement is emulated here.
+- [BLE Peripheral with Battery Service](doc/NCSv2.5.0_02b_peripheral_Service_Battery.md) - Here a Battery Service (BAS) is added to a project. Battery level measurement is emulated here.
 
 ### Bluetooth Services offered in NRF Repository (NCS folder: nrf/subsys/bluetooth/services)
 
