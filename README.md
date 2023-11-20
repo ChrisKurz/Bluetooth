@@ -8,7 +8,7 @@ Here is a list of available hands-on exercises:
 
 ## Beacon
 
-- [iBeacon](doc/NCSv2.3.0_01_Beacon.md) - initialize bluetooth stack and realize a broadcaster (creating project from scratch)
+- [iBeacon](doc/NCSv2.5.0_01_Beacon.md) - initialize bluetooth stack and realize a broadcaster (creating project from scratch)
 
 ## Bluetooth Services
 
