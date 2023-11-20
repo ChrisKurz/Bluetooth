@@ -19,7 +19,7 @@ Another service is the _Battery Service_ (BAS). Here we will add the BAS service
 
 1) Make a copy of the project "Peripheral with Device Information Service". 
 
-   If you haven't done the this hands-on exercise, you can also download the Custom Service project [here](https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.5.0/02_Peripheral_DIS).
+   If you haven't done the this hands-on exercise, you can also download this project [here](https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.5.0/02_Peripheral_DIS).
 
 2) Let's change the Bluetooth Device name of this project. Look for __CONFIG_BT_DEVICE_NAME="DIS peripheral"__ in the _prj.conf_ file and replace it by following line:
 
