@@ -24,7 +24,7 @@ We will use one of the previous examples and add the handling that is needed to 
 
 1) Make a copy of the project "Peripheral with a Custom Service". 
 
-   If you haven't done the this hands-on exercise, you can also download the Custom Service project [here](https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.3.0/02_Peripheral_DIS).
+   If you haven't done the this hands-on exercise, you can also download the Custom Service project [here](https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.5.0/02_Peripheral_DIS).
 
 ### Enable 2M PHY
 
