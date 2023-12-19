@@ -26,7 +26,7 @@ Here is a list of available hands-on exercises:
 
 ## Bluetooth Stack Feature Settings
 
-- [Using 2M-PHY](doc/NCSv2.3.0_06_peripheral_2MPHY.md) - requesting 2M-PHY usage. 
+- [Using 2M-PHY](doc/NCSv2.5.0_06_peripheral_2MPHY.md) - requesting 2M-PHY usage. 
 
 ## Bluetooth Security
 
