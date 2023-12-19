@@ -151,7 +151,7 @@ And add it to CusomtService.c:
             err = CustomService_init();
             if (err) {
                 printk("Custom Service initialization failed!\n");
-                return;
+                return 0;
             }
 
 12) You can now also chance the Bluetooth Device name by changing the CONFIG_BT_DEVICE_NAME setting in the prj.conf file. 
