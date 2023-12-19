@@ -31,6 +31,11 @@ We have already added the basic Bluetooth software modules in the previous proje
        CONFIG_BT_SMP=y
        CONFIG_BT_SMP_SC_ONLY=y
 
+   CONFIG_BT_SMP activates support for the Security Manager Protocol (SMP) and enables devices to be paired via Bluetooth LE. 
+
+   CONFIG_BT_SMP_SC_ONLY activates support for Secure Connection Only Mode. In this mode, the device may only use Security Mode 1 Level 4, with the exception of services that only require Security Mode 1 Level 1 (no security). Security Mode 1 Level 4 stands for authenticated LE Secure Connections pairing with encryption. Activating this option disables legacy pairing. 
+
+
 ### Change Security Level as soon as a Connection is established
 
 3) We increase the security level after a Connection was established. So using the _connected()_ callback function allows us to detect when the connection was done. And here we can then increase the security level.
