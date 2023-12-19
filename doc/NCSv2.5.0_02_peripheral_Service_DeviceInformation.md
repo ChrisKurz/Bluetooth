@@ -114,7 +114,7 @@ Notes:
            err = bt_enable(NULL);
            if (err) {
                printk("Bluetooth init failed (err %d)\n", err);
-               return;
+               return 0;
            }
            printk("Bluetooth initialized\n");
 
