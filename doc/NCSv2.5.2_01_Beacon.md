@@ -1,4 +1,4 @@
-<sup>SDK version: NCS v2.5.0  -  Link to Hands-on solution: https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.5.0/01_Beacon</sup>
+<sup>SDK version: NCS v2.5.2  -  Link to Hands-on solution: https://github.com/ChrisKurz/Bluetooth/tree/main/Workspace/NCSv2.5.2/01_Beacon</sup>
 
 # Bluetooth Low Energy: Creating a Beacon application
 
