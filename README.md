@@ -30,4 +30,4 @@ Here is a list of available hands-on exercises:
 
 ## Bluetooth Security
 
-- [Enable Securtiy on a Bluetooth Peripheral](doc/NCSv2.5.0_10_peripheral_EnableSecurity.md)
+- [Enable Securtiy on a Bluetooth Peripheral](doc/NCSv2.5.2_10_peripheral_EnableSecurity.md)
