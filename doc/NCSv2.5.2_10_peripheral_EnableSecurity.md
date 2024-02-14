@@ -204,9 +204,9 @@ The code we created above is already running. There are already some debug messa
 
 21) The smartphone asks to enter the passkey. Enter the passkey exactly as it is shown in the terminal.
 
-   ![image](images/04_test_smartphone_passkey.jpg)
-
    __Note:__ The passkey is valid only for a predefined time. In case of a timeout event, the development kit will disconnect and advertising is started again. Then a new connection has to be established and a new passkey is shown.
+
+   ![image](images/04_test_smartphone_passkey.jpg)
 
 22) You should now see that the terminal states the security level, the bluetooth address, and the statement that pairing is completed. 
 
