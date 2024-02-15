@@ -145,6 +145,9 @@ In this hands-on we use the "Write without Response" transfer operation. A smart
 
         #include "../services/CustomService.h"
 
+   __Note:__ The relative path of the header file is used here. To make it more readable, the include path can also be defined in the CMakeLists.txt file by inserting the following line: __include_directories( services/ )__ This allows to use __#include "CustomService.h"__. Further info about this CMake command can be found [here](https://cmake.org/cmake/help/latest/command/include_directories.html).
+   
+
 12) We initialize our service by adding the following after enabling the Bluetooth stack in main.c:
 
 	<sup>_src/main.c_ => main() function</sup>
