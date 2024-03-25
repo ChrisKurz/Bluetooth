@@ -146,7 +146,7 @@ _prj.conf_
 
 	<sup>_src/main.c_ => main() function</sup>
              
-             start_advertising();
+              start_advertising();
 
 
 ### Add handling of connect/disconnect events
