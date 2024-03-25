@@ -7,3 +7,5 @@ project(MyPeripheralCusSer)
 
 target_sources(app PRIVATE src/main.c
                            services/CustomService.c)
+
+include_directories( services/ )
