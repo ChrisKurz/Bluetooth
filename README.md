@@ -22,7 +22,7 @@ Here is a list of available hands-on exercises:
 
 ### Custom Bluetooth Services
 
-- [Adding a Custom Service (_Write without Response_)](doc/NCSv2.5.2_03_peripheral_CustomService.md) - here we add a custom service and characteristic to the previous project. This example uses the Bluetooth LE Data Transfer Operation "Write Without Response".
+- [Adding a Custom Service (_Write without Response_)](doc/NCSv2.6.0_03_peripheral_CustomService.md) - here we add a custom service and characteristic to the previous project. This example uses the Bluetooth LE Data Transfer Operation "Write Without Response".
 
 ## Bluetooth Stack Feature Settings
 
